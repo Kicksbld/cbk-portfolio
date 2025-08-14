@@ -3,15 +3,15 @@
 import { Links } from "@/ui/design-system/Links";
 import Image from "next/image";
 import { HiOutlineExternalLink } from "react-icons/hi";
-import { TbMenu3 } from "react-icons/tb";
+/* import { TbMenu3 } from "react-icons/tb"; */
 import Car from "./Car";
 import Link from "next/link";
-import { useNavContext } from "../../../../context/NavContext";
+/* import { useNavContext } from "../../../../context/NavContext"; */
 import SwitchLanguages from "../SwitchLanguages";
 import { useTranslations } from "use-intl"; // Import de la fonction de traduction
 
 const NavBar = () => {
-  const { navVisibility, setNavVisibility } = useNavContext();
+  /* const { navVisibility, setNavVisibility } = useNavContext(); */
   const t = useTranslations(); // Récupère les traductions
 
   return (

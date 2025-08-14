@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import { ImportantText } from "../design-system/ImportantText";
 import { Typographie } from "../design-system/Typographie";
 import Image from "next/image";
-import { Links } from "../design-system/Links";
+/* import { Links } from "../design-system/Links"; */
 import { Inputs } from "../design-system/Inputs";
 import { Button } from "../design-system/Button";
 import { IoIosSend } from "react-icons/io";
