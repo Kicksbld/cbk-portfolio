@@ -91,13 +91,7 @@ const Form = () => {
 
           <Typographie className="max-w-[434px] text-center inline-block">
             {t("form.formDescription")}
-            <Links
-              link="https://frontend-axis.vercel.app"
-              variant="externe"
-              className="inline-block"
-            >
-              {t("form.agencyName")}
-            </Links>
+            <br />
              {t("form.descr")}
             <span className="inline-flex items-center">
               <Image

@@ -9,7 +9,7 @@
   },
 
   "header": {
-    "introText": "Hi I’m Boularand Killian, a 18-year-old young man passionate about Web technologies and Entrepreneurship. Ready to take this journey with me to discover my personal world and what I do?",
+    "introText": "Hi I’m Boularand Killian, a 19-year-old young man passionate about Web technologies and Entrepreneurship. Ready to take this journey with me to discover my personal world and what I do?",
     "exploreMore": "Explore More",
     "basedIn": "BASED IN FRANCE",
     "myWork": "MY WORK",
@@ -20,7 +20,7 @@
     "titre2-ent": "Entrepreneur"
   },
   "aboutMe": {
-    "introText": "For the past two years, I have immersed myself in the world of coding and interface design, a passion that began as soon as I discovered the endless possibilities of the digital world. I am currently a student at L'Ecole By CCI Haute-Savoie, studying in the digital field, where I continue to develop my skills in a dynamic and innovative environment. Before that, I earned a high school diploma in STIDD, (Sciences and Technologies of Engineering and Sustainable Development), a program that provided me with a solid foundation in engineering and sustainable development—fields that still influence my projects today.",
+    "introText": "For the past three years, I have immersed myself in the world of coding and interface design, a passion that began as soon as I discovered the endless possibilities of the digital world. I am currently a student at L'Ecole By CCI Haute-Savoie, studying in the digital field, where I continue to develop my skills in a dynamic and innovative environment. Before that, I earned a high school diploma in STIDD, (Sciences and Technologies of Engineering and Sustainable Development), a program that provided me with a solid foundation in engineering and sustainable development—fields that still influence my projects today.",
     "goal": "My goal is to combine my technical and creative knowledge to become an entrepreneur in the tech industry, where I can create solutions that push the boundaries of innovation and efficiency.",
     "followMe": "Follow me",
     "socialLinks": {
@@ -37,9 +37,8 @@
     "contactTitle": "Contact me",
     "title1": "Let’s work together and",
     "title2": "bring your ideas to life",
-    "formDescription": "Contact me or my agency, ",
-    "agencyName": "Axis Studio",
-    "descr": ", To turn your vision into reality.",
+    "formDescription": "Contact me, ",
+    "descr": "To turn your vision into reality.",
     "formPlaceholders": {
       "name": "Enter Your name",
       "email": "Enter Your Email",

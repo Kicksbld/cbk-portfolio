@@ -84,9 +84,11 @@ const Page = async ({ params }: { params: Promise<{ id: string }> }) => {
               </Typographie>
             </div>
             <div className="flex items-center gap-5 flex-wrap">
+              {project.liveSiteUrl && (
               <Link href={project.liveSiteUrl}>
                 <Button className="uppercase">{t("visite")}</Button>
               </Link>
+              )}
               {project.githubRepoUrl && (
                 <Link href={project.githubRepoUrl}>
                   <Button className="uppercase" variant="outline">

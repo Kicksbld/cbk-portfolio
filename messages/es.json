@@ -8,7 +8,7 @@
     "resume": "Currículum"
   },
   "header": {
-    "introText": "Hola, soy Boularand Killian, un joven de 18 años apasionado por las tecnologías web y el emprendimiento. ¿Estás listo para unirte a este viaje conmigo para descubrir mi mundo personal y lo que hago?",
+    "introText": "Hola, soy Boularand Killian, un joven de 19 años apasionado por las tecnologías web y el emprendimiento. ¿Estás listo para unirte a este viaje conmigo para descubrir mi mundo personal y lo que hago?",
     "exploreMore": "Explorar más",
     "basedIn": "UBICADO EN FRANCIA",
     "myWork": "MI TRABAJO",
@@ -20,7 +20,7 @@
   },
 
   "aboutMe": {
-    "introText": "Durante los últimos dos años, me he sumergido en el mundo de la programación y el diseño de interfaces, una pasión que comenzó en cuanto descubrí las infinitas posibilidades del mundo digital. Actualmente soy estudiante en L'Ecole By CCI Haute-Savoie, en el campo digital, donde continúo desarrollando mis habilidades en un entorno dinámico e innovador. Antes de eso, obtuve un diploma de secundaria en STIDD, (Ciencias y Tecnologías de la Ingeniería y Desarrollo Sostenible), un programa que me brindó una base sólida en ingeniería y desarrollo sostenible, campos que aún influyen en mis proyectos hoy en día.",
+    "introText": "Durante los últimos tres años, me he sumergido en el mundo de la programación y el diseño de interfaces, una pasión que comenzó en cuanto descubrí las infinitas posibilidades del mundo digital. Actualmente soy estudiante en L'Ecole By CCI Haute-Savoie, en el campo digital, donde continúo desarrollando mis habilidades en un entorno dinámico e innovador. Antes de eso, obtuve un diploma de secundaria en STIDD, (Ciencias y Tecnologías de la Ingeniería y Desarrollo Sostenible), un programa que me brindó una base sólida en ingeniería y desarrollo sostenible, campos que aún influyen en mis proyectos hoy en día.",
     "goal": "Mi objetivo es combinar mis conocimientos técnicos y creativos para convertirme en un emprendedor en la industria tecnológica, donde pueda crear soluciones que empujen los límites de la innovación y la eficiencia.",
     "followMe": "Sígueme",
     "socialLinks": {
@@ -38,9 +38,8 @@
     "contactTitle": "Contácta me",
     "title1": "Trabajemos juntos y",
     "title2": "damos vida a tus ideas",
-    "formDescription": "Contáctame o mi agencia, ",
-    "agencyName": "Axis Studio",
-    "descr": ", para convertir tu visión en realidad",
+    "formDescription": "Contáctame, ",
+    "descr": "para convertir tu visión en realidad",
     "formPlaceholders": {
       "name": "Ingresa tu nombre",
       "email": "Ingresa tu correo electrónico",

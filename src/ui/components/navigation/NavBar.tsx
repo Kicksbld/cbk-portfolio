@@ -15,14 +15,14 @@ const NavBar = () => {
   const t = useTranslations(); // Récupère les traductions
 
   return (
-    <nav className="pt-[47px] fixed z-50 container mx-auto top-0  w-full backdrop-blur-md">
-      <div className="flex items-center w-full justify-between py-[25px] border-y border-y-primary">
-        <div
+    <nav className="lg:pt-[47px] pt-[20px] fixed z-50 container mx-auto top-0  w-full backdrop-blur-md">
+      <div className="flex items-center w-full justify-between lg:py-[25px] py-[10px] border-y border-y-primary">
+       {/*  <div
           className="w-full lg:hidden block"
           onClick={() => setNavVisibility(!navVisibility)}
         >
           <TbMenu3 size={35} color="#1c1b29" />
-        </div>
+        </div> */}
 
         <Link href="/" className="lg:w-full flex items-center">
           <Image

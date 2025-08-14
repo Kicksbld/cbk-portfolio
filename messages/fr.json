@@ -8,7 +8,7 @@
     "resume": "CV"
   },
   "header": {
-    "introText": "Salut, je suis Boularand Killian, un jeune homme de 18 ans passionne par les technologies Web et l'entrepreneuriat. Pret a entreprendre ce voyage avec moi pour decouvrir mon univers et ce que je fais ?",
+    "introText": "Salut, je suis Boularand Killian, un jeune homme de 19 ans passionne par les technologies Web et l'entrepreneuriat. Pret a entreprendre ce voyage avec moi pour decouvrir mon univers et ce que je fais ?",
     "exploreMore": "Explorer davantage",
     "basedIn": "BASE EN FRANCE",
     "myWork": "MON TRAVAIL",
@@ -19,7 +19,7 @@
     "titre2-ent": "Entrepreneur"
   },
   "aboutMe": {
-    "introText": "Depuis deux ans, je me suis immerge dans l'univers du codage et du design d'interface, une passion nee des que j'ai decouvert les possibilites infinies du monde numerique. Je suis actuellement etudiant a l'Ecole By CCI Haute-Savoie, dans le domaine du numerique, ou je continue a developper mes competences dans un environnement dynamique et innovant. Avant cela, j'ai obtenu un bac STIDD, (Sciences et Technologies de l'Ingenierie et du Developpement Durable), un programme qui m'a fourni une base solide en ingenierie et en developpement durable—des domaines qui influencent encore mes projets aujourd'hui.",
+    "introText": "Depuis trois ans, je me suis immerge dans l'univers du codage et du design d'interface, une passion nee des que j'ai decouvert les possibilites infinies du monde numerique. Je suis actuellement etudiant a l'Ecole By CCI Haute-Savoie, dans le domaine du numerique, ou je continue a developper mes competences dans un environnement dynamique et innovant. Avant cela, j'ai obtenu un bac STIDD, (Sciences et Technologies de l'Ingenierie et du Developpement Durable), un programme qui m'a fourni une base solide en ingenierie et en developpement durable—des domaines qui influencent encore mes projets aujourd'hui.",
     "goal": "Mon objectif est de combiner mes connaissances techniques et creatives pour devenir entrepreneur dans l'industrie de la tech, ou je pourrai creer des solutions qui repoussent les limites de l'innovation et de l'efficacite.",
     "followMe": "Suivez-moi",
     "socialLinks": {
@@ -36,9 +36,8 @@
     "contactTitle": "Contactez-moi",
     "title1": "Travaillons ensemble et",
     "title2": "Amenons vos idee a la vie",
-    "formDescription": "Contacter moi ou mon agence, ",
-    "descr": ", pour transformer votre vision en realite",
-    "agencyName": "Axis Studio",
+    "formDescription": "Contacter moi, ",
+    "descr": "pour transformer votre vision en realite",
     "formPlaceholders": {
       "name": "Entrez votre nom",
       "email": "Entrez votre email",

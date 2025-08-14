@@ -22,7 +22,7 @@ const Car = () => {
   }, []);
 
   return (
-    <div className="w-full mt-[25px] flex items-end">
+    <div className="w-full lg:mt-[25px] mt-[10px] flex items-end">
       <Image alt="" width={26} height={35} src="/img/svg/flag.svg" />
       <div className="w-full relative ">
         <div className="line w-full h-[1px]">
