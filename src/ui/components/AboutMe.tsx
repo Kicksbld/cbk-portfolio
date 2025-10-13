@@ -59,10 +59,10 @@ const AboutMe = () => {
               </ImportantText>
               <div className="w-full h-[1px] bg-primary mt-[15px]"></div>
             </div>
-            <Links link="https://www.instagram.com/codebykillian.dev/" className="w-full" variant="underline">
+            <Links link="https://www.instagram.com/kiks.bld/" className="w-full" variant="underline">
               {t("aboutMe.socialLinks.instagram")}
             </Links>
-            <Links link="https://github.com/Wesome0674" className="w-full" variant="underline">
+            <Links link="https://github.com/Kicksbld/" className="w-full" variant="underline">
               {t("aboutMe.socialLinks.github")}
             </Links>
             <Links link="https://www.linkedin.com/in/killian-boularand-461061267/" className="w-full" variant="underline">
