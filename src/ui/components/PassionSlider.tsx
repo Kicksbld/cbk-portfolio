@@ -1,7 +1,5 @@
-import { PrismaClient } from "@prisma/client";
+import prisma from "@/prisma";
 import PassionSliderClient from "./PassionSliderClient";
-
-const prisma = new PrismaClient();
 
 async function getPassions(locale: string) {
   const passions = await prisma.passion.findMany({
