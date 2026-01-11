@@ -1,13 +1,11 @@
 import React from "react";
 import MyWorkClient from "./MyWorkClient";
-import { PrismaClient } from "@prisma/client";
-
-const prisma = new PrismaClient();
+import prisma from "@/prisma";
 
 // Récupère les projets avec les traductions en fonction de la langue
 async function getProjects(locale: string) {
   const projects = await prisma.project.findMany({
-    orderBy: { id: "asc" },
+    orderBy: { id: "desc" },
     include: {
       images: true,
       translations: {
