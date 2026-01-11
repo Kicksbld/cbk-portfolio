@@ -1,8 +1,6 @@
 import React from "react";
 import MyWorkClient from "./MyWorkClient";
-import { PrismaClient } from "@prisma/client";
-
-const prisma = new PrismaClient();
+import prisma from "@/prisma";
 
 // Récupère les projets avec les traductions en fonction de la langue
 async function getProjects(locale: string) {

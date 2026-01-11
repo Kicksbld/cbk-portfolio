@@ -1,7 +1,5 @@
-import { PrismaClient } from "@prisma/client";
+import prisma from "@/prisma";
 import MySkillsClient from "./MySkillsClient";
-
-const prisma = new PrismaClient();
 
 async function getSkills(locale: string) {
   const skills = await prisma.skills.findMany({
