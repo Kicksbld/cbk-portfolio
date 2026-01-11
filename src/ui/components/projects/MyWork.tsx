@@ -7,7 +7,7 @@ const prisma = new PrismaClient();
 // Récupère les projets avec les traductions en fonction de la langue
 async function getProjects(locale: string) {
   const projects = await prisma.project.findMany({
-    orderBy: { id: "asc" },
+    orderBy: { id: "desc" },
     include: {
       images: true,
       translations: {
